@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andres Garzon</h1>
 <h3 align="center">A passionate Full Stack Web developer from Colombia</h3>
 
+<h3 align="center">About me</h3>
+<p align="left"> I am a Jr. Full Stack Web Developer, engineer and lifelong learner with a professional background in web development, costumer service and a great passion for coding. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole. 
+
+Skills & Technologies
+HTML | CSS | JavaScript | React JS | Node JS | Express | RESTful APIs | Postgres | Mongo DB |Debugging | Git | GitHub | Networking | Redux Tool Kit | Django | Python | 
+
+GitHub: https://github.com/agarzonsanchez
+Twitter: https://twitter.com/AndresGSan
+Portfolio: https://andresgarzoncodes.com/</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agarzonsanchez" alt="agarzonsanchez" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
